@@ -12,7 +12,6 @@ public class Books implements java.io.Serializable {
 
 	public Books() {
 	}
-
 	public Books(int booksId) {
 		this.booksId = booksId;
 	}
@@ -48,3 +47,4 @@ public class Books implements java.io.Serializable {
 	}
 
 }
+

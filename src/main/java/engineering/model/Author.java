@@ -35,6 +35,7 @@ public class Author implements java.io.Serializable {
 
 	public void setAuthorName(String authorName) {
 		this.authorName = authorName;
-	}
+}
 
 }
+

@@ -38,4 +38,3 @@ public class Author implements java.io.Serializable {
 }
 
 }
-
